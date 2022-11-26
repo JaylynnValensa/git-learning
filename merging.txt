@@ -5,3 +5,5 @@ todo list:
 3: practice git
 4: submit exc
 5: Whatever left to do
+
+6: rest

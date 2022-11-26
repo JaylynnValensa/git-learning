@@ -2,3 +2,4 @@ todo list:
 1: brush teeth
 2: breakfast
 3: practice git
+4: submit exc
